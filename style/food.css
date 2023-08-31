@@ -20,6 +20,7 @@ header {
     display: flex;
     justify-content: flex-start;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -39,12 +40,16 @@ li a {
     text-decoration: none;
     line-height: 19px;
 }
-.cleaning{
-    color:  #073B4C;;
+
+.cleaning {
+    color: #073B4C;
+    ;
 }
-.contact{
-    color:  #6C6C6C;
+
+.contact {
+    color: #6C6C6C;
 }
+
 .btnn-1 {
     background-color: #073B4C;
     height: 40px;
@@ -54,60 +59,76 @@ li a {
     cursor: pointer;
     border: none;
 }
-.flex-containerr{
+
+.flex-containerr {
     display: flex;
     flex-direction: row;
     padding-top: 40px;
 }
-.first-col{
+
+.first-col {
     width: 100%;
     padding-left: 120px;
     padding-top: 40px;
 }
-.imgg{
+
+.imgg {
     width: 100%;
 }
-.imgg2{
-    size: 40px;
+
+.imgg2 {
+    size: 10px;
     left: 20px;
 }
-.heading1{
-        font-size: 48px;
-        line-height: 64px;
-        color: #000000;
+
+.heading1 {
+    font-size: 48px;
+    line-height: 64px;
+    color: #000000;
 }
-.headspan1{
-    color: #06CF99;
+
+.headspan1 {
+    color: #06CF99 ;
+    
+   
 }
-.heading-p{
+
+.heading-p {
     font-size: 20px;
-        line-height: 34px;
-        color: #6C6C6C;
+    line-height: 34px;
+    color: #6C6C6C;
 }
-.head1-btn{
+
+.head1-btn {
     width: 200px;
-        height: 56px;
-        background: #073B4C;
-        border-radius: 5px;
-        color: white;
-        border: none;
+    height: 56px;
+    background: #073B4C;
+    border-radius: 5px;
+    color: white;
+    border: none;
 }
-.flex-container1{
+
+.flex-container1 {
     display: flex;
     flex-direction: row;
-    background-color: #1183AB0F;
+    background: rgba(6, 207, 153, 0.31);
     padding-top: 100px;
     padding-bottom: 50px;
     justify-content: space-around;
+    margin-top: 70px;
 }
-.sweet{
+
+.sweet {
     text-align: center;
 }
-.flex-container2 , .flex-containerrr{
+
+.flex-container2,
+.flex-containerrr {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
+
 .carousel {
     width: 336px;
     height: 320px;
@@ -118,77 +139,90 @@ li a {
 
 
 }
-.see-services{
+
+.see-services {
     padding-top: 60px;
     padding-left: 20px;
 }
-.flex-container3{
+
+.flex-container3 {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
 }
-.laundry{
+
+.laundry {
     width: 340px;
-        height: 291px;
-        /* left: 137px;
-        top: 3314px; */ 
-        margin-left: 30px;
-        padding-left: 10px;
-        padding-top: 10px;
-        background: rgba(255, 202, 102, 0.13);
-}
-.otherservice-p{
-    font-size: 20px;
-        line-height: 30px;
-        color: #6C6C6C;
+    height: 291px;
+    /* left: 137px;
+        top: 3314px; */
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background: rgba(17, 131, 171, 0.06);;
 }
 
-.explore{
+.otherservice-p {
+    font-size: 20px;
+    line-height: 30px;
+    color: #6C6C6C;
+}
+
+.explore {
     color: #FFA700;
     text-decoration: none;
 }
+
 .explore2 {
     text-decoration: none;
-    color: #06CF994F;;
+    color: #06CF994F;
+    ;
 
 }
-.food-col{
+
+.food-col {
     width: 340px;
-        height: 291px;
-        background: rgba(6, 207, 153, 0.31);
-        margin-left: 25px;
-        padding-left: 10px;
-            padding-top: 15px;
+    height: 291px;
+    margin-left: 25px;
+    padding-left: 10px;
+    padding-top: 15px;
+    background: rgba(255, 202, 102, 0.13);
 
 }
-.flex-container4{
+
+.flex-container4 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     height: 748px;
-        background: rgba(6, 207, 153, 0.31);
-        margin-top: 60px;
+    background: rgba(255, 202, 102, 0.13);
+    margin-top: 60px;
 }
-.app-pic{
+
+.app-pic {
     width: 100%;
     padding-top: 80px;
     padding-left: 60px;
 }
-.app-other{
+
+.app-other {
     width: 100%;
     padding-top: 80px;
 }
-.download{
+
+.download {
     font-size: 40px;
-        line-height: 60px;
-        color: #000000;
+    line-height: 60px;
+    color: #000000;
 }
-.download-p{
+
+.download-p {
     font-size: 20px;
-        line-height: 30px; 
-        color: #6C6C6C;
+    line-height: 30px;
+    color: #6C6C6C;
 
 }
+
 .flex-container-footer {
     display: flex;
     flex-direction: row;
@@ -221,4 +255,3 @@ footer {
     text-align: center;
     color: #A4A4A4;
 }
-
